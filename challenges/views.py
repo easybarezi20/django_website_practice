@@ -7,7 +7,7 @@ monthly_challenges = {
     "march": "learn Django",
     "april": "eat no meat",
     "may": "sleep on time",
-    "june": "learn python",
+    "june": "learn pythosdfasdfasdfn",
     "july": "plan a trip for nexy month",
     "august": "read 10 pages a night",
     "september": "learn react",
